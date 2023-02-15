@@ -5,11 +5,12 @@ body{
 	padding:0;
 	
 }
-.parent{
+.holder{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between ;
 	flex-wrap: wrap;
+	
 	
 /* 	padding: 10px; */
 /* 	background: yellow;
